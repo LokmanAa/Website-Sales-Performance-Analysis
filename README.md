@@ -1,6 +1,6 @@
 Sales Analysis for Lapage Online Store
 
-In this project, you will analyze the sales performance of Lapage, a bookstore that has transitioned to e-commerce. The goal is to evaluate key sales indicators and customer behavior, providing insights for strategic decisions, such as pricing, offers, and customer targeting.
+In this project, I've analyzed the sales performance of Lapage, a bookstore that has transitioned to e-commerce. The goal is to evaluate key sales indicators and customer behavior, providing insights for strategic decisions, such as pricing, offers, and customer targeting.
  
 Key Skills Acquired:
 
